@@ -24,7 +24,7 @@ h1 {
 .footer {
   background-color: black;
   display: flex;
-  height: 60px;
+  height: infinite;
   border-radius: 10px;
 }
 
